@@ -39,23 +39,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![Screenshot 2025-02-16 at 2 16 45 PM](https://github.com/user-attachments/assets/1de6f4c4-8f8b-4583-b430-172e68da0534)
 
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+
+  <h2>Creating a Ticket with SLA Plan:</h2>
+  
+  - Log in to osTicket.              - Click on "Create Ticket."
+  - Fill in the required details.    - Select an SLA plan.
+  - Choose the issue type.           - Submit the ticket.
+  - The SLA plan will track response times.
+
+  <h2>Creating a Ticket to Report a Problem:</h2>
+  
+  - Log in to osTicket. - Click on "Create Ticket."
+  - Enter your contact information.   - Choose "Report a Problem" as the issue type.
+  - Describe the problem clearly.       - Submit the ticket for support.
+
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />

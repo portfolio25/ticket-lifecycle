@@ -35,8 +35,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![Screenshot 2025-02-25 at 12 45 33 PM](https://github.com/user-attachments/assets/7e6eeb5b-7314-4e56-b588-bec179012edb)
 
+![Screenshot 2025-02-16 at 2 07 46 PM](https://github.com/user-attachments/assets/f5563445-3d4b-419b-a5aa-9302d0dadbf6)
+
+![Screenshot 2025-02-16 at 2 16 45 PM](https://github.com/user-attachments/assets/1de6f4c4-8f8b-4583-b430-172e68da0534)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 

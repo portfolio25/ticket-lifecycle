@@ -29,9 +29,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Screenshot 2025-02-25 at 12 16 48 PM](https://github.com/user-attachments/assets/6ee94915-17a6-48e7-b3a7-00d99b87066d)
+
+![Screenshot 2025-02-25 at 12 22 54 PM](https://github.com/user-attachments/assets/93361ead-2e1f-44cd-9fa9-d70aef098901)
+
+![Screenshot 2025-02-25 at 12 45 33 PM](https://github.com/user-attachments/assets/7e6eeb5b-7314-4e56-b588-bec179012edb)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
